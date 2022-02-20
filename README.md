@@ -46,6 +46,8 @@ Prompt:
 
 [Swagger documentation](https://app.swaggerhub.com/apis/ShairaT/Mozio/1.0.0)
 
+## AWS EB Running API
+[Running API](http://mozioapi-env.eba-ys3ghh3y.us-west-2.elasticbeanstalk.com)
 
 ## Run
 
